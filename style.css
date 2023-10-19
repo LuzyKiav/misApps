@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+}
+h1{
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 300;
+}
+#app{
+    background-color: aliceblue;
+    
+}
+.linea{
+    background-color: black;
+    height: 6px;
+    width: 70px;
+    margin: 8px auto;
+}
+img{
+    width: 20%;
+}
+#juegos{
+    background-color: aqua;
+}
+#bot{
+    background-color: chocolate;
+}
